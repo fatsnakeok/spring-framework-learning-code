@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(urlPatterns = "/demo2")
+@WebServlet(urlPatterns = "/demo3")
 public class DemoServlet3 extends HttpServlet {
     
     DemoService demoService = BeanFactory.getDemoService();

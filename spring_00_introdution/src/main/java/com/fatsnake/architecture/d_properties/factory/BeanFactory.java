@@ -17,6 +17,7 @@ public class BeanFactory {
     private static Properties properties;
 
     static {
+        properties = new Properties();
         try {
             properties.load(BeanFactory.class.getClassLoader().getResourceAsStream("factory_d.properties"));
         } catch (IOException e) {

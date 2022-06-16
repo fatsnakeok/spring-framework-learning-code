@@ -1,8 +1,8 @@
-package com.fatsnake.architecture.e_cachefactory.servlet;
+package com.fatsnake.architecture.c_reflect.e_cachefactory.servlet;
 
 
-import com.fatsnake.architecture.e_cachefactory.factory.BeanFactory;
-import com.fatsnake.architecture.e_cachefactory.service.DemoService;
+import com.fatsnake.architecture.c_reflect.e_cachefactory.service.DemoService;
+import com.fatsnake.architecture.c_reflect.e_cachefactory.factory.BeanFactory;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

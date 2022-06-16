@@ -1,9 +1,9 @@
-package com.fatsnake.architecture.e_cachefactory.service.impl;
+package com.fatsnake.architecture.c_reflect.e_cachefactory.service.impl;
 
 
-import com.fatsnake.architecture.e_cachefactory.dao.DemoDao;
-import com.fatsnake.architecture.e_cachefactory.factory.BeanFactory;
-import com.fatsnake.architecture.e_cachefactory.service.DemoService;
+import com.fatsnake.architecture.c_reflect.e_cachefactory.dao.DemoDao;
+import com.fatsnake.architecture.c_reflect.e_cachefactory.factory.BeanFactory;
+import com.fatsnake.architecture.c_reflect.e_cachefactory.service.DemoService;
 
 import java.util.List;
 

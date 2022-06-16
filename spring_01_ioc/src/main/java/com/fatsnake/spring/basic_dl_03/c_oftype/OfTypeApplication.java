@@ -19,7 +19,8 @@ import java.util.Map;
  * 消息与国际化（ LocaleResolver ）
  * Environment 抽象（ SpringFramework 3.1 以后）
  * @Auther: fatsnake
- * @Description": 如果一个接口有多个实现，而咱又想一次性把这些都拿出来，那 getBean 方法显然就不够用了，需要使用额外的方式。
+ * @Description": 父类 / 接口来找实现类
+ * 如果一个接口有多个实现，而咱又想一次性把这些都拿出来，那 getBean 方法显然就不够用了，需要使用额外的方式。
  * @Date:2022/6/16 11:12
  * Copyright (c) 2022, zaodao All Rights Reserved.
  */

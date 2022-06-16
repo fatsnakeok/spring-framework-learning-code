@@ -1,6 +1,7 @@
 package com.fatsnake.architecture.d_properties.dao.impl;
 
 
+
 import com.fatsnake.architecture.d_properties.dao.DemoDao;
 
 import java.util.Arrays;

@@ -11,10 +11,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-@WebServlet(urlPatterns = "/demo2")
-public class DemoServlet3 extends HttpServlet {
+@WebServlet(urlPatterns = "/demo4")
+public class DemoServlet4 extends HttpServlet {
     
-    DemoService demoService = BeanFactory.getDemoService();
+    DemoService demoService = (DemoService) BeanFactory.getBean("demoService");
     
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {

@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  * @Auther: fatsnake
- * @Description":
+ * @Description": https://blog.csdn.net/qq_29860591/article/details/108613847   spring组件注册 自定义TypeFilter 指定过滤规则
  * @Date:2022/6/20 09:55
  * Copyright (c) 2022, zaodao All Rights Reserved.
  */

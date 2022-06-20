@@ -1,13 +1,13 @@
-package com.fatsnake.spring.c_scan.bean;
+package com.fatsnake.spring.annotaion_07.f_typefilter.color;
 
 import org.springframework.stereotype.Component;
 
 /**
  * @Auther: fatsnake
  * @Description":
- * @Date:2022/6/19 9:41 上午
+ * @Date:2022/6/20 09:52
  * Copyright (c) 2022, zaodao All Rights Reserved.
  */
 @Component
-public class Cat {
+public class Green {
 }

@@ -4,5 +4,5 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="person" class="com.fatsnake.spring.c_scan.bean.Person"/>
+    <bean id="person" class="com.fatsnake.spring.annotaion_07.c_scan.bean.Person"/>
 </beans>

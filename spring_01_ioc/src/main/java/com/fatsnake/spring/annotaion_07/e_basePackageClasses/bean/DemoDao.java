@@ -1,4 +1,4 @@
-package com.fatsnake.spring.e_basePackageClasses.bean;
+package com.fatsnake.spring.annotaion_07.e_basePackageClasses.bean;
 
 import org.springframework.stereotype.Repository;
 

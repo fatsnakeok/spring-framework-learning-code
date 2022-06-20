@@ -1,11 +1,10 @@
-package com.fatsnake.spring.d_importxml;
+package com.fatsnake.spring.annotaion_07.d_importxml;
 
-import com.fatsnake.spring.d_importxml.config.ImportXmlAnnotationConfiguration;
+import com.fatsnake.spring.annotaion_07.d_importxml.config.ImportXmlAnnotationConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import java.util.logging.XMLFormatter;
 import java.util.stream.Stream;
 
 /**

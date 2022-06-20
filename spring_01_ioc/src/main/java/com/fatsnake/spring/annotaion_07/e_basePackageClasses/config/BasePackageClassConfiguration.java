@@ -1,7 +1,7 @@
-package com.fatsnake.spring.e_basePackageClasses.config;
+package com.fatsnake.spring.annotaion_07.e_basePackageClasses.config;
 
-import com.fatsnake.spring.e_basePackageClasses.bean.DemoDao;
-import com.fatsnake.spring.e_basePackageClasses.component.DemoComponent;
+import com.fatsnake.spring.annotaion_07.e_basePackageClasses.bean.DemoDao;
+import com.fatsnake.spring.annotaion_07.e_basePackageClasses.component.DemoComponent;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 

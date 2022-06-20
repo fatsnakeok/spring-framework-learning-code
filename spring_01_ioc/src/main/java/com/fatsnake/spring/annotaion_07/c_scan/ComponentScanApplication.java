@@ -1,7 +1,7 @@
-package com.fatsnake.spring.c_scan;
+package com.fatsnake.spring.annotaion_07.c_scan;
 
-import com.fatsnake.spring.c_scan.bean.Person;
-import com.fatsnake.spring.c_scan.config.ComponentScanConfiguration;
+import com.fatsnake.spring.annotaion_07.c_scan.bean.Person;
+import com.fatsnake.spring.annotaion_07.c_scan.config.ComponentScanConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

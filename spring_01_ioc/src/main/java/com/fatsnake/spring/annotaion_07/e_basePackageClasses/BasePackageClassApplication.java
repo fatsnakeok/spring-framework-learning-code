@@ -1,6 +1,6 @@
-package com.fatsnake.spring.e_basePackageClasses;
+package com.fatsnake.spring.annotaion_07.e_basePackageClasses;
 
-import com.fatsnake.spring.e_basePackageClasses.config.BasePackageClassConfiguration;
+import com.fatsnake.spring.annotaion_07.e_basePackageClasses.config.BasePackageClassConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

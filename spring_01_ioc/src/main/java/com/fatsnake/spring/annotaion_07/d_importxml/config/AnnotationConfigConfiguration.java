@@ -1,6 +1,6 @@
-package com.fatsnake.spring.d_importxml.config;
+package com.fatsnake.spring.annotaion_07.d_importxml.config;
 
-import com.fatsnake.spring.c_scan.bean.Person;
+import com.fatsnake.spring.annotaion_07.c_scan.bean.Person;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

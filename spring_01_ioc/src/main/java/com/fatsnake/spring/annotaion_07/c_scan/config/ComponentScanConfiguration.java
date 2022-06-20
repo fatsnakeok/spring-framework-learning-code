@@ -1,4 +1,4 @@
-package com.fatsnake.spring.c_scan.config;
+package com.fatsnake.spring.annotaion_07.c_scan.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

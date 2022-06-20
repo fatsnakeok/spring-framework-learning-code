@@ -1,4 +1,4 @@
-package com.fatsnake.spring.d_importxml.config;
+package com.fatsnake.spring.annotaion_07.d_importxml.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ImportResource;

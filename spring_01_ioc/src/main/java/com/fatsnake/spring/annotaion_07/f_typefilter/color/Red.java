@@ -1,13 +1,13 @@
-package com.fatsnake.spring.e_basePackageClasses.component;
+package com.fatsnake.spring.annotaion_07.f_typefilter.color;
 
 import org.springframework.stereotype.Component;
 
 /**
  * @Auther: fatsnake
  * @Description":
- * @Date:2022/6/19 10:19 下午
+ * @Date:2022/6/20 09:53
  * Copyright (c) 2022, zaodao All Rights Reserved.
  */
 @Component
-public class DemoComponent {
+public class Red  extends Color{
 }
